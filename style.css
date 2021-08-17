@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 1rem;
+    line-height: 1.5;
+}
+
+h1, h2 {
+    color: #5B66DC;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    color: #7780E3;
+    text-decoration: none;
+}
+
+main {
+    max-width: 500px;
+    margin: 0 auto;
+}
