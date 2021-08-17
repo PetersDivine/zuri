@@ -22,6 +22,11 @@ li a {
     text-decoration: none;
 }
 
+li a:hover {
+    border-bottom: 1px dotted #7780E3;
+    color: #5B66DC;
+}
+
 main {
     max-width: 500px;
     margin: 0 auto;
